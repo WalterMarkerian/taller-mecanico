@@ -1,4 +1,4 @@
-package com.taller_mecanico;
+package com.tallermecanico;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
